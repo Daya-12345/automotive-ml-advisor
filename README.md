@@ -37,9 +37,9 @@ streamlit run app.py
 
 👤 Author
 
-Dhayanidhi J P
+Dhayanidhi J P, Harini V
 Hackathon Project | 2025
 
-📧 Email: jpdhayanidhi@gmail.com
+📧 Email: jpdhayanidhi@gmail.com , hariniv9751@gmail.com
 
 🔗 GitHub: https://github.com/Daya-12345
