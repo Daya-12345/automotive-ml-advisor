@@ -42,5 +42,4 @@ Hackathon Project | 2025
 
 📧 Email: jpdhayanidhi@gmail.com
 
-🔗 GitHub: https://github.com/
-<your-username>
+🔗 GitHub: https://github.com/Daya-12345
